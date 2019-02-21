@@ -24,7 +24,7 @@ elec %>%
   spread(key= response, value=  total)
   
   
-  
+  asdfasdf
             
 
 View(elec) 
