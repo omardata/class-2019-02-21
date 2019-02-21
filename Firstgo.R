@@ -11,7 +11,7 @@ elec <- read_csv(file = "https://raw.githubusercontent.com/TheUpshot/2018-live-p
                    final_weight = col_double(),
                    timestamp = col_datetime(format = "")
                  )) 
-   
+  # What is this about
 
 
 glimpse(elec)
