@@ -23,8 +23,6 @@ elec %>%
   summarize(total= n()) %>% 
   spread(key= response, value=  total)
   
-  
-  asdfasdf
             
 
 View(elec) 
